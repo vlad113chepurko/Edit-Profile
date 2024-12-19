@@ -1,0 +1,33 @@
+.profile-container {
+    max-width: 1000px;
+    max-height: 800px;
+    margin: auto;
+    height: auto;
+    width: auto;
+
+    overflow: hidden;
+
+    background-color: whitesmoke;
+    border-radius: 5px;
+}
+
+.profile-container-edit {
+    width: 600px;
+    height: auto;
+
+    margin: auto;
+
+
+
+    display: flex;
+    flex-direction: column;
+
+    background-color: whitesmoke;
+    border-radius: 5px;
+}
+
+.profile-container-edit button {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 100px;
+}
